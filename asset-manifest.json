@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/katapayi_dict/static/css/main.d83f4383.css",
+    "main.js": "/katapayi_dict/static/js/main.fd3e5956.js",
+    "static/js/787.28cb0dcd.chunk.js": "/katapayi_dict/static/js/787.28cb0dcd.chunk.js",
+    "static/media/kaei_maru171.ttf": "/katapayi_dict/static/media/kaei_maru171.3a2060cdecd90771005d.ttf",
+    "index.html": "/katapayi_dict/index.html",
+    "main.d83f4383.css.map": "/katapayi_dict/static/css/main.d83f4383.css.map",
+    "main.fd3e5956.js.map": "/katapayi_dict/static/js/main.fd3e5956.js.map",
+    "787.28cb0dcd.chunk.js.map": "/katapayi_dict/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d83f4383.css",
+    "static/js/main.fd3e5956.js"
+  ]
+}
