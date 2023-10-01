@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'kaei-maru';
+    src: url('./font/kaei_maru171.ttf') format('truetype');
+}
+
+.kaei-maru {
+    font-family: 'kaei-maru', sans-serif;
+}

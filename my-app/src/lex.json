@@ -1,0 +1,4953 @@
+{
+    "words": [
+        {
+            "entry": {
+                "id": 68,
+                "form": "aapwa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "零",
+                        "0"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "aapʷa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 160,
+                "form": "afe"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "泳ぐ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "afe"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 188,
+                "form": "agi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "気体"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "aŋi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 182,
+                "form": "ako"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "繋げる",
+                        "括り付ける"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ako"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 129,
+                "form": "ala"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "道"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ala"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 142,
+                "form": "alau"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "長い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "alau"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 168,
+                "form": "alele"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "歌う"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "alele"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 126,
+                "form": "alo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "太陽"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "alo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 81,
+                "form": "amata"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "生の",
+                        "調理前の"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "amata"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 97,
+                "form": "amwa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "産む",
+                        "出産する"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "amʷa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 179,
+                "form": "amwi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "洗う"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "amʷi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 37,
+                "form": "ane"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "欲しい",
+                        "望み",
+                        "望む"
+                    ]
+                },
+                {
+                    "title": "心態詞",
+                    "forms": [
+                        "〜しておいてほしい（指令）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ane"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 201,
+                "form": "ani"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "持つ",
+                        "所有する"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "解説",
+                    "text": "物理的に所有者の近くにある必要はない。"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "ani"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 71,
+                "form": "anitu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "神",
+                        "魂",
+                        "精霊"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "anitu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 175,
+                "form": "apili"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "魚"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "apili"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 57,
+                "form": "aramata"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "人"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "aramata"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 10,
+                "form": "are"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "あれ（遠称）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "are"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 86,
+                "form": "ata"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "頂点"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ata"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 58,
+                "form": "atai"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "右"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "atai"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 178,
+                "form": "ate"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "肝"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ate"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 151,
+                "form": "awa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "口"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "awa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 78,
+                "form": "axo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "時",
+                        "回"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "aʃo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 169,
+                "form": "axu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "煙"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "aʃu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 172,
+                "form": "ayuxa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "流れる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ajuʃa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 13,
+                "form": "cagi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "愛する"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tsaŋi"
+                },
+                {
+                    "title": "用法",
+                    "text": "[gen]が[dat]を愛する"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 114,
+                "form": "calo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "黒"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tsalo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 103,
+                "form": "canu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "水"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tsanu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 111,
+                "form": "cao"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "群",
+                        "グループ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tsao"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 162,
+                "form": "cawu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "重い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tsawu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 200,
+                "form": "ceni"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "木"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tseni"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 12,
+                "form": "cigi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "書く",
+                        "彫る",
+                        "刻む"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tsiŋi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 124,
+                "form": "ciki"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "少し"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tsiki"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 8,
+                "form": "ee"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "これ（近称）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ee"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 9,
+                "form": "ena"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "それ（中称）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ena"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 40,
+                "form": "faga"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "与える"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "faŋa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 21,
+                "form": "fagi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "四"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "faŋi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 133,
+                "form": "faifine"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "女"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "faifine"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 76,
+                "form": "fanau"
+            },
+            "translations": [
+                {
+                    "title": "心態詞",
+                    "forms": [
+                        "～した方がいい（勧誘）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fanau"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 60,
+                "form": "faniyape"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "リンゴ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fanijape"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 209,
+                "form": "fanua"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "住処"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fanua"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 69,
+                "form": "fari"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "今"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fari"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 197,
+                "form": "fataga"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "幹"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fataŋa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 52,
+                "form": "fato"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "呼び寄せる",
+                        "召喚する"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fato"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 101,
+                "form": "fatu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "石"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fatu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 106,
+                "form": "fau"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "新しい"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fau"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 93,
+                "form": "fauru"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "作る"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fauru"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 174,
+                "form": "fawo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "表面"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fawo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 191,
+                "form": "fitou"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "星"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fitou"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 24,
+                "form": "fitu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "七"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "fitu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 1,
+                "form": "ga"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "私（1人称単数）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ŋa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 35,
+                "form": "garatu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "千"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ŋaratu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 110,
+                "form": "gasa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "穴"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ŋasa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 33,
+                "form": "gawulu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "十"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ŋawulu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 123,
+                "form": "gii"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "音"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ŋii"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 7,
+                "form": "i"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "彼ら",
+                        "彼女ら",
+                        "それら（3人称複数）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "i"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 3,
+                "form": "ia"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "彼",
+                        "彼女",
+                        "それ（3人称単数）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ia"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 31,
+                "form": "iha"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "名前"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "iha"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 127,
+                "form": "iici"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "描く"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 43,
+                "form": "ikenaa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "今日"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ikenaa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 100,
+                "form": "imwa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "家",
+                        "建物",
+                        "建物を建てる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "imʷa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 158,
+                "form": "inu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "飲む"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "inu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 180,
+                "form": "iri"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "擦る",
+                        "こする"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "iri"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 117,
+                "form": "kae"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "棒"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kae"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 14,
+                "form": "kagi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "食べる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "捕食者[dat]が被捕食者[nec]を食べる"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "kaŋi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 159,
+                "form": "kai"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "噛む"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "[nec]を噛みちぎる/[abl]を噛む"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "kai"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 5,
+                "form": "kamami"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "私たち（1人称複数除外）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kamami"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 6,
+                "form": "kamwu"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "あなたたち（2人称複数）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kamʷu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 41,
+                "form": "kana"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "穀物",
+                        "糧"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kana"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 189,
+                "form": "karani"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "（概念",
+                        "量的に）近い",
+                        "約",
+                        "およそ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "karani"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 144,
+                "form": "karawa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "青",
+                        "青い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "karawa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 98,
+                "form": "kari"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "掻く"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kari"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 15,
+                "form": "katapa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "言葉",
+                        "話す"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "話者[gen]が言語[-lu]で話す"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "katapa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 17,
+                "form": "katuu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "ネコ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "katuu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 53,
+                "form": "kau"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "呼びかける",
+                        "誘惑"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kau"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 16,
+                "form": "keci"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "ネズミ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 67,
+                "form": "kila"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "知る",
+                        "知っている"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "[dat]が[abl]から[gen]を知る"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "kila"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 164,
+                "form": "kio"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "燃える",
+                        "燃やす"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kio"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 143,
+                "form": "kisi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "小さい"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kisi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 4,
+                "form": "kita"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "私とあなた（たち）（1人称複数包含）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kita"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 2,
+                "form": "ko"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "あなた（2人称単数）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ko"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 88,
+                "form": "kona"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "できる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "\"kona-ni-V-la\"で「Vすることができる」。"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "kona"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 150,
+                "form": "kulu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "鳥"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kulu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 28,
+                "form": "lagi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "空"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "解説",
+                    "text": "空、転じて天、天国"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "laŋi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 84,
+                "form": "laka"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "外見",
+                        "見た目"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "laka"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 72,
+                "form": "lako"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "行く",
+                        "向かう"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lako"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 118,
+                "form": "lalo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "中",
+                        "内部"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lalo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 83,
+                "form": "lama"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "形状",
+                        "全体像"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lama"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 185,
+                "form": "lama"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "湖"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lama"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 89,
+                "form": "lapa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "大きい"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lapa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 183,
+                "form": "lau"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "液体"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lau"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 44,
+                "form": "lautuu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "明日"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lautuu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 90,
+                "form": "lee"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "所",
+                        "どこ",
+                        "場所"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "lee-ni-Nで「Nに関係する場所」。"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "lee"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 56,
+                "form": "lele"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "良い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lele"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 104,
+                "form": "lesa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "本当",
+                        "真実"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lesa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 165,
+                "form": "liko"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "引く"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "liko"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 22,
+                "form": "lima"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "五"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lima"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 92,
+                "form": "loo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "見る",
+                        "読む"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "loo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 192,
+                "form": "luku"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "いくらか",
+                        "幾分か"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "luku"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 38,
+                "form": "ma"
+            },
+            "translations": [
+                {
+                    "title": "接続詞",
+                    "forms": [
+                        "～と…"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "解説",
+                    "text": "A ma B で「AとB」の意味。"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "ma"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 156,
+                "form": "maaso"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "座る"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "maaso"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 140,
+                "form": "maawunu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "戦う"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "maawunu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 155,
+                "form": "maci"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "寒い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 82,
+                "form": "magi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "考え",
+                        "心中",
+                        "記憶"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "maŋi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 131,
+                "form": "mami"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "甘い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mami"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 96,
+                "form": "man"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "生き物"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "man"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 148,
+                "form": "mana"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "力"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mana"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 187,
+                "form": "manyawa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "生きる",
+                        "生存"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "maɲawa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 138,
+                "form": "marama"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "月"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "marama"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 171,
+                "form": "marawa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "緑"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "marawa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 128,
+                "form": "mate"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "死ぬ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mate"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 141,
+                "form": "maturu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "寝る"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "maturu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 145,
+                "form": "mauga"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "山"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mauŋa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 59,
+                "form": "maugi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "左"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mauŋi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 65,
+                "form": "mauri"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "生命"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mauri"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 203,
+                "form": "mawo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "医療",
+                        "治療する"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "自己治癒（能力）に言及する場合は自発態を用いる。"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "mawo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 73,
+                "form": "maya"
+            },
+            "translations": [
+                {
+                    "title": "心態詞",
+                    "forms": [
+                        "～せんことよ（祈祷）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "maja"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 87,
+                "form": "mega"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "ある",
+                        "いる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "[gen]が[dat]（可動の生物、人工物）/[abl]（不動の生物、自然物）にある/いる"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "meŋa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 207,
+                "form": "melana"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "環境"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "melana"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 36,
+                "form": "menyaa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "する",
+                        "行う"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "meɲaa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 152,
+                "form": "mera"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "黄色"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mera"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 134,
+                "form": "mwaane"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "男"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mʷaane"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 202,
+                "form": "mwaau"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "健康状態"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mʷaau"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 176,
+                "form": "mwata"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "虫"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mʷata"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 193,
+                "form": "mwo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "～でさえ（強意）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mʷo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 199,
+                "form": "noko"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "葉"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "noko"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 45,
+                "form": "nyanyoa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "昨日"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ɲaɲoa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 11,
+                "form": "oo"
+            },
+            "translations": [
+                {
+                    "title": "代可換詞",
+                    "forms": [
+                        "あれ（定称）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "解説",
+                    "text": "話者と聞き手の間で認識が共有されているが、話者の視界内に存在しないものを指し示す。"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "oo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 85,
+                "form": "oute"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "覆い",
+                        "被せる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "oute"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 125,
+                "form": "paa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "数"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "paa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 116,
+                "form": "paca"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "平",
+                        "平たい"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 139,
+                "form": "pailagi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "水平"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pailaŋi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 163,
+                "form": "pale"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "軽い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pale"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 47,
+                "form": "palia"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "明後日"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "palia"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 149,
+                "form": "para"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "赤",
+                        "赤い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "para"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 64,
+                "form": "pata"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "彷徨う"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pata"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 91,
+                "form": "pau"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "手"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pau"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 109,
+                "form": "pauna"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "使う"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pauna"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 70,
+                "form": "paya"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "言う",
+                        "会話"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "paja"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 79,
+                "form": "pia"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "膣"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pia"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 206,
+                "form": "pike"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "砂漠"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pike"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 184,
+                "form": "pili"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "川"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pili"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 54,
+                "form": "piteki"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "自由",
+                        "解放する"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "[abl]から解放する。"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "piteki"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 196,
+                "form": "pwa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "理由"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 49,
+                "form": "pwaca"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "緩める",
+                        "赦す"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "[gen]が人[dat]の罪[nec]を[abl]から赦す"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷatsa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 154,
+                "form": "pwai"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "価値"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷai"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 39,
+                "form": "pwala"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "～もまた"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷala"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 153,
+                "form": "pwaro"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "包み",
+                        "箱"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷaro"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 147,
+                "form": "pwece"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "白",
+                        "白い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷetse"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 102,
+                "form": "pwela"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "分ける",
+                        "分割する"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "[abl]が[nec]を[gen]に分割する"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷela"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 61,
+                "form": "pwon"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "全て"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷon"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 50,
+                "form": "pwuce"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "馬鹿な",
+                        "愚かな"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷutse"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 34,
+                "form": "pwukiwa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "百"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷukiwa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 181,
+                "form": "pwuku"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "結ぶ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷuku"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 177,
+                "form": "pwulo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "心"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷulo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 55,
+                "form": "pwusa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "悪い"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "pʷusa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 46,
+                "form": "raani"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "日",
+                        "一日"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "raani"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 198,
+                "form": "rae"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "枝"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "rae"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 146,
+                "form": "ragi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "火"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "raŋi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 120,
+                "form": "rara"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "暖かい"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "rara"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 99,
+                "form": "rii"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "合わせる",
+                        "合体する"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "rii"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 48,
+                "form": "ro"
+            },
+            "translations": [
+                {
+                    "title": "接続詞",
+                    "forms": [
+                        "～のように",
+                        "～といったように"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "解説",
+                    "text": "A ro B で「BのようにA」。"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "ro"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 136,
+                "form": "rogo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "聞く"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "roŋo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 19,
+                "form": "rua"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "二"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "rua"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 42,
+                "form": "sawu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "十分な"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "sawu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 107,
+                "form": "sipa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "感じる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "sipa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 63,
+                "form": "siwo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "下"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "siwo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 119,
+                "form": "suku"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "叩く",
+                        "打つ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "suku"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 27,
+                "form": "tama"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "父"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tama"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 29,
+                "form": "tano"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "大地"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "解説",
+                    "text": "大地、地、転じて地球"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "tano"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 113,
+                "form": "tapwo"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "終わる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tapʷo"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 30,
+                "form": "tara"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "神聖なるもの",
+                        "聖なる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "[gen]は神聖である。\n[abl]が[dat]を神聖視する。"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "tara"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 132,
+                "form": "tari"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "子"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tari"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 194,
+                "form": "taro"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "重要な",
+                        "有用な",
+                        "価値のある",
+                        "役に立つ",
+                        "利益をもたらす"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "taro"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 173,
+                "form": "taxi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "塩"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "taʃi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 18,
+                "form": "te"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "一"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "te"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 195,
+                "form": "tegea"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "方法",
+                        "過程"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "teŋea"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 20,
+                "form": "telu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "三"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "telu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 80,
+                "form": "tika"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "陰茎"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tika"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 95,
+                "form": "tina"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "母"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tina"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 77,
+                "form": "tiri"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "たくさん"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tiri"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 204,
+                "form": "tupwu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "育つ",
+                        "育てる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "[abl]で[dat]が育つ（自発態）/[abl]により[dat]を育てる（能動態）"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "tupʷu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 157,
+                "form": "tuu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "立つ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tuu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 112,
+                "form": "tuuki"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "開く"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "tuuki"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 122,
+                "form": "ulu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "頭"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ulu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 51,
+                "form": "uri"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "引きずりこむ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "uri"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 208,
+                "form": "utaki"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "集める",
+                        "蓄える"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "utaki"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 170,
+                "form": "uxa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "雨",
+                        "雨が降る"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "uʃa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 115,
+                "form": "uxu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "植物"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "uʃu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 66,
+                "form": "wae"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "足"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "wae"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 25,
+                "form": "walu"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "八"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "walu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 205,
+                "form": "waru"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "森"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "waru"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 167,
+                "form": "waxe"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "数える"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "waʃe"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 108,
+                "form": "wee"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "同じ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "wee"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 190,
+                "form": "weli"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "変わる",
+                        "変化する",
+                        "別のものになる"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "weli"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 135,
+                "form": "weti"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "待つ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "weti"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 23,
+                "form": "wono"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "六"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "wono"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 130,
+                "form": "wuaa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "実",
+                        "果物"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "wuaa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 75,
+                "form": "wufu"
+            },
+            "translations": [
+                {
+                    "title": "心態詞",
+                    "forms": [
+                        "～したい（希望）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "wufu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 105,
+                "form": "wuku"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "風"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "wuku"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 137,
+                "form": "wuru"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "遊ぶ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "wuru"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 62,
+                "form": "xake"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "上"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ʃake"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 121,
+                "form": "xali"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "線",
+                        "行列"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ʃali"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 186,
+                "form": "xawa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "海"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ʃawa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 166,
+                "form": "xihi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "押す"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ʃihi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 26,
+                "form": "xiwa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "九"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "ʃiwa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 32,
+                "form": "xoko"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "来る"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "用法",
+                    "text": "[gen]が[abl]から[dat]へ来る"
+                },
+                {
+                    "title": "Pronunciation",
+                    "text": "ʃoko"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 94,
+                "form": "yako"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "性交"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "jako"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 161,
+                "form": "yali"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "飛ぶ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "jali"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 74,
+                "form": "yasu"
+            },
+            "translations": [
+                {
+                    "title": "心態詞",
+                    "forms": [
+                        "～してほしい（要請）"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "jasu"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        }
+    ]
+}
