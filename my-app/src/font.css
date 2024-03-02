@@ -6,3 +6,12 @@
 .kaei-maru {
     font-family: 'kaei-maru', sans-serif;
 }
+
+@font-face {
+    font-family: 'kaei-rom';
+    src: url('./font/kaei_rom.ttf') format('truetype');
+}
+
+.kaei-rom {
+    font-family: 'kaei-rom', sans-serif;
+}
