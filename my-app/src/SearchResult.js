@@ -26,11 +26,12 @@ const SearchResult = ({ searchResults, searchTerm }) => {
             <ul>
               {sortedResults.map((word, index) => (
                 <li key={index}>
-                  <span className="kaei-rom">{word.entry.form}</span>&nbsp;<br />
+                  <big><b className="kaei-rom">{word.entry.form}</b></big>&nbsp;<br />
                   <span style={{ color: 'gray' }}>{word.entry.form}</span>&nbsp;
                   <span style={{ color: 'gray', fontFamily: 'Times New Roman' }}>/{word.contents.find((item) => item.title === "Pronunciation")?.text}/</span><br />
                   [{word.translations[0]?.title}]&nbsp;
                   {word.translations[0]?.forms[0]}<br />
+                  解説: {word.contents.find((item) => item.title === "解説")?.text}<br />
                   用法: {word.contents.find((item) => item.title === "用法")?.text}<br />
                 </li>
               ))}
