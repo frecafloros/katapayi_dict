@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/katapayi_dict/static/css/main.dd4b5a83.css",
-    "main.js": "/katapayi_dict/static/js/main.f113955d.js",
+    "main.js": "/katapayi_dict/static/js/main.93cb1385.js",
     "static/js/787.28cb0dcd.chunk.js": "/katapayi_dict/static/js/787.28cb0dcd.chunk.js",
     "static/media/kaei_maru171.ttf": "/katapayi_dict/static/media/kaei_maru171.3a2060cdecd90771005d.ttf",
     "static/media/kaei_rom.ttf": "/katapayi_dict/static/media/kaei_rom.f2e69bf3750e65f727f4.ttf",
     "index.html": "/katapayi_dict/index.html",
     "main.dd4b5a83.css.map": "/katapayi_dict/static/css/main.dd4b5a83.css.map",
-    "main.f113955d.js.map": "/katapayi_dict/static/js/main.f113955d.js.map",
+    "main.93cb1385.js.map": "/katapayi_dict/static/js/main.93cb1385.js.map",
     "787.28cb0dcd.chunk.js.map": "/katapayi_dict/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd4b5a83.css",
-    "static/js/main.f113955d.js"
+    "static/js/main.93cb1385.js"
   ]
 }
