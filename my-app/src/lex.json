@@ -16942,6 +16942,78 @@
             ],
             "variations": [],
             "relations": []
+        },
+        {
+            "entry": {
+                "id": 724,
+                "form": "luma"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "かわいい",
+                        "魅力的な"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "luma"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 725,
+                "form": "hahawuyoy"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "生徒",
+                        "学生"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "hahawujoj"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 726,
+                "form": "hahawutey"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "教師",
+                        "先生"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "hahawutej"
+                }
+            ],
+            "variations": [],
+            "relations": []
         }
     ]
 }

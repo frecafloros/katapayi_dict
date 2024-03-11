@@ -30,9 +30,21 @@ const SearchResult = ({ searchResults, searchTerm }) => {
                   <span style={{ color: 'gray' }}>{word.entry.form}</span>&nbsp;
                   <span style={{ color: 'gray', fontFamily: 'Times New Roman' }}>/{word.contents.find((item) => item.title === "Pronunciation")?.text}/</span><br />
                   [{word.translations[0]?.title}]&nbsp;
-                  {word.translations[0]?.forms[0]}<br />
-                  解説: {word.contents.find((item) => item.title === "解説")?.text}<br />
-                  用法: {word.contents.find((item) => item.title === "用法")?.text}<br />
+                  {word.translations[0]?.forms.map((form, index) => (
+                      <React.Fragment key={index}>
+                          {form}
+                          {index < word.translations[0]?.forms.length - 1 && "、"}
+                      </React.Fragment>
+                  ))}<br />
+                  [{word.translations[1]?.title}]&nbsp;
+                  {word.translations[1]?.forms.map((form, index) => (
+                      <React.Fragment key={index}>
+                          {form}
+                          {index < word.translations[1]?.forms.length - 1 && "、"}
+                      </React.Fragment>
+                  ))}<br />
+                  【解説】{word.contents.find((item) => item.title === "解説")?.text}<br />
+                  【用法】{word.contents.find((item) => item.title === "用法")?.text}<br />
                 </li>
               ))}
             </ul>
