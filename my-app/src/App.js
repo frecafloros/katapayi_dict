@@ -20,14 +20,17 @@ function App() {
       const filteredResults = dictionaryData.words.filter((word) => {
         const searchTermLower = newSearchTerm.toLowerCase();
         const entryFormLower = word.entry.form.toLowerCase();
-        const translationLower = word.translations[0]?.forms[0]?.toLowerCase();
+
+        // すべての翻訳のフォームを結合して検索対象とする
+        const translationsForms = word.translations.flatMap((translation) => translation.forms);
+        const translationLower = translationsForms.map(form => form.toLowerCase()).join(', ');
 
         if (searchOption === 'partial') {
-          return entryFormLower.includes(searchTermLower) || (translationLower && translationLower.includes(searchTermLower));
+          return entryFormLower.includes(searchTermLower) || translationLower.includes(searchTermLower);
         } else if (searchOption === 'startsWith') {
-          return entryFormLower.startsWith(searchTermLower) || (translationLower && translationLower.startsWith(searchTermLower));
+          return entryFormLower.startsWith(searchTermLower) || translationLower.startsWith(searchTermLower);
         } else if (searchOption === 'exact') {
-          return entryFormLower === searchTermLower || (translationLower && translationLower === searchTermLower);
+          return entryFormLower === searchTermLower || translationLower === searchTermLower;
         }
 
         return false;

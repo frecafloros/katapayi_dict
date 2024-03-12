@@ -36,15 +36,28 @@ const SearchResult = ({ searchResults, searchTerm }) => {
                           {index < word.translations[0]?.forms.length - 1 && "、"}
                       </React.Fragment>
                   ))}<br />
-                  [{word.translations[1]?.title}]&nbsp;
-                  {word.translations[1]?.forms.map((form, index) => (
-                      <React.Fragment key={index}>
-                          {form}
-                          {index < word.translations[1]?.forms.length - 1 && "、"}
+                  {word.translations[1]?.title && (
+                      <React.Fragment>
+                        [{word.translations[1].title}]&nbsp;
+                        {word.translations[1]?.forms.map((form, index) => (
+                          <React.Fragment key={index}>
+                            {form}
+                            {index < word.translations[1].forms.length - 1 && "、"}
+                          </React.Fragment>
+                        ))}
+                        <br />
                       </React.Fragment>
-                  ))}<br />
-                  【解説】{word.contents.find((item) => item.title === "解説")?.text}<br />
-                  【用法】{word.contents.find((item) => item.title === "用法")?.text}<br />
+                  )}
+                  {word.contents.find((item) => item.title === "解説") && (
+                    <React.Fragment>
+                      【解説】{word.contents.find((item) => item.title === "解説").text}<br />
+                    </React.Fragment>
+                  )}
+                  {word.contents.find((item) => item.title === "用法") && (
+                    <React.Fragment>
+                      【用法】{word.contents.find((item) => item.title === "用法").text}<br />
+                    </React.Fragment>
+                  )}
                 </li>
               ))}
             </ul>
