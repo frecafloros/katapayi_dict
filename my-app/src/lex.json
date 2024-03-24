@@ -4822,7 +4822,7 @@
                     "text": "mawo"
                 },
                 {
-                    "title": "用法",
+                    "title": "解説",
                     "text": "自己治癒（能力）に言及する場合は自発態を用いる。"
                 }
             ],
@@ -12341,7 +12341,8 @@
                     "forms": [
                         "由来",
                         "ものが過去にあった空間",
-                        "基底"
+                        "基底",
+                        "そもそも"
                     ]
                 }
             ],
@@ -14815,6 +14816,14 @@
                 {
                     "title": "Pronunciation",
                     "text": "tapʷu"
+                },
+                {
+                    "title": "解説",
+                    "text": "「～がない」といった「無いもの」を表すときは殺格を用いる"
+                },
+                {
+                    "title": "用法",
+                    "text": "[dat]には[nec]がない/[abl]から[nec]をなくす"
                 }
             ],
             "variations": [],
@@ -17010,6 +17019,262 @@
                 {
                     "title": "Pronunciation",
                     "text": "hahawutej"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 727,
+                "form": "iru"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "悲しみ"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "iru"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 728,
+                "form": "lipa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "喜び"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "lipa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 729,
+                "form": "kuxa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "働く",
+                        "労働する"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kuʃa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 730,
+                "form": "rikuxa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "労働者"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "rikuʃa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 731,
+                "form": "suli"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "難しい"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "suli"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 732,
+                "form": "titi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "乳を吸う"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "titi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 733,
+                "form": "rapa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "簡単"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "rapa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 734,
+                "form": "kusi"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "勤勉な",
+                        "真面目な"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "kusi"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 735,
+                "form": "saya"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "踊る"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "saja"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 736,
+                "form": "mwamanyawa"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "生活"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mʷamaɲawa"
+                }
+            ],
+            "variations": [],
+            "relations": []
+        },
+        {
+            "entry": {
+                "id": 737,
+                "form": "mwatafaali"
+            },
+            "translations": [
+                {
+                    "title": "一般可換詞",
+                    "forms": [
+                        "リズム",
+                        "律動"
+                    ]
+                }
+            ],
+            "tags": [],
+            "contents": [
+                {
+                    "title": "Pronunciation",
+                    "text": "mʷatafaali"
                 }
             ],
             "variations": [],
